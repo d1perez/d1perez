@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d1perez
 - 👀 I’m interested in entertainment and media.
-- 🌱 I’m currently learning data analytics job.
-- 📫 How to reach me LinkedIn.
+- 🌱 I’m currently learning data analytics.
+- 📫 Reach me at LinkedIn.
 
 <!---
 d1perez/d1perez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
